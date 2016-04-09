@@ -2,7 +2,7 @@ package event
 import (
 	"errors"
 	"fmt"
-	"github.com/orivil/sorter"
+	"gopkg.in/orivil/sorter.v0"
 )
 
 var (

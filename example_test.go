@@ -2,7 +2,7 @@ package event_test
 import (
 	"log"
 	"fmt"
-	"github.com/orivil/event"
+	"gopkg.in/orivil/event.v0"
 )
 
 // test event name
