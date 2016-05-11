@@ -1,4 +1,4 @@
-# Orivil event dispatcher
+# Orivil event dispatcher component
 
 ## Install
 
@@ -18,4 +18,14 @@ go test example_test.go
 
 ```
 see example_test.go
+```
+
+## Contributors
+
+https://github.com/orivil/event/graphs/contributors
+
+## License
+
+```
+Released under the MIT License.
 ```
